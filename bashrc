@@ -152,4 +152,6 @@ export PATH="$HOME/.local/bin:$PATH"
 export BUN_INSTALL="$HOME/.bun"
 export PATH="$BUN_INSTALL/bin:$PATH"
 
+alias get_idf='. $HOME/esp/esp-idf/export.sh'
+
 source ~/bashrc_own
